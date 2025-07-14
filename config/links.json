@@ -1,32 +1,22 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github fa-lg"
+        "url": "https://signal.me/#eu/V3lLGKYc5aGr0rv2nnJljU1-9uSQMGYk_4ka6dZ4iVcx5kdqui1ElZxvYs1FxOWH",
+        "text": "Signal",
+        "icon": "fa-brands signal-messenger fa-lg"
     },
     {
-        "url": "https://medium.com",
-        "text": "Medium",
-        "icon": "fa-brands fa-medium fa-lg"
+        "url": "www.tumblr.com/the-disguised-fox",
+        "text": "Tumblr",
+        "icon": "fa-brands tumblr fa-lg"
     },
     {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://instagram.com",
+        "url": "https://www.instagram.com/tavthedisguisedfox/",
         "text": "Instagram",
         "icon": "fa-brands fa-instagram fa-lg"
     },
     {
-        "url": "https://bsky.app",
+        "url": "https://bsky.app/profile/justafox.xyz",
         "text": "Bluesky",
         "icon": "fa-brands fa-bluesky"
-    },
-    {
-        "url": "https://github.com/nandolawson/LinkLoom",
-        "text": "Download LinkLoom",
-        "icon": "fa-solid fa-download"
     }
 ]
