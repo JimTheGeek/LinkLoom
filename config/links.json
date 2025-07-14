@@ -2,12 +2,12 @@
     {
         "url": "https://signal.me/#eu/V3lLGKYc5aGr0rv2nnJljU1-9uSQMGYk_4ka6dZ4iVcx5kdqui1ElZxvYs1FxOWH",
         "text": "Signal",
-        "icon": "fa-brands signal-messenger fa-lg"
+        "icon": "fa-brands fa-signal-messenger fa-lg"
     },
     {
         "url": "www.tumblr.com/the-disguised-fox",
         "text": "Tumblr",
-        "icon": "fa-brands tumblr fa-lg"
+        "icon": "fa-brands fa-tumblr fa-lg"
     },
     {
         "url": "https://www.instagram.com/tavthedisguisedfox/",
